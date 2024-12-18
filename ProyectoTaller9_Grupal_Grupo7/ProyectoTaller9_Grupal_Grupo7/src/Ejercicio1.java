@@ -1,6 +1,4 @@
 
-import java.util.Scanner;
-
 /**
  * Con el objetivo practicar el uso del ciclo repetitivo for, se propone que
  * dado un límite, se presenten las siguientes figuras. Por ejemplo si el límite
